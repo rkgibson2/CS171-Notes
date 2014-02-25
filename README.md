@@ -19,3 +19,7 @@ Lecture on D3, given by Vadim Ogievetsky
 ----------------------------------
 
 Steps in design, different types of visualizations
+
+[February 25, 2014](2014-02-25.md)
+----------------------------------
+
