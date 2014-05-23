@@ -23,3 +23,34 @@ Steps in design, different types of visualizations
 [February 25, 2014](2014-02-25.md)
 ----------------------------------
 
+High dimensional data visualization methods
+
+[February 27, 2014](2014-02-27.md)
+----------------------------------
+
+Visualization text and visualization of text
+
+[March 4, 2014](2014-03-04.md)
+----------------------------------
+
+Maps and various map projections
+
+[March 11, 2014](2014-03-11.md)
+----------------------------------
+
+Tableau guest lecture
+
+[March 13, 2014](2014-03-13.md)
+----------------------------------
+
+Visual perception and how to study it
+
+[March 25, 2014](2014-03-25.md)
+----------------------------------
+
+Color and color scales
+
+[April 3, 2014](2014-04-03.md)
+----------------------------------
+
+Storytelling
